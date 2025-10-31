@@ -1,0 +1,45 @@
+{
+  "intro": "No Reference ist ein Geflecht ineinandergreifender analoger und digitaler Entitäten. Verwurzelt in Forschung und Experiment vereint es eine vielfältige Konstellation von Akteur:innen, um die Fähigkeit der Kunst zu erkunden, mögliche Gegenwarten heraufzubeschwören.",
+  "paragraphs": [
+    "In unserer Forschung verstehen wir das Territorium als lebendiges Archiv, indem wir seine Symbiose mit organischen, anorganischen und digitalen Akteur:innen und deren Umwelten in historischen, gegenwärtigen und spekulativen Kontexten analysieren. Wir untersuchen Fälle, in denen diese symbiotischen Systeme im Verlauf der Geschichte genutzt und missbraucht wurden, und diskutieren deren Auswirkungen auf politische Imaginarios.",
+    "Wir entwickeln langfristige Regenerative Research Projects: adaptive Untersuchungen, die Verflechtungen nicht nur beobachten, sondern kulturelle, ökologische und technologische Felder erneuern wollen. Regenerative Forschung signalisiert hier zyklisches Wachstum, ethische Abstimmung und verteilte Wissensproduktion—und fördert Praktiken, die responsiv, transformativ und den Dringlichkeiten der Gegenwart zugewandt sind."
+  ],
+  "methodologyTitle": "Jedes Projekt entfaltet sich in einer siebenphasigen Methodik:",
+  "methodology": [
+    {
+      "step": 1,
+      "title": "Forschung",
+      "description": "Entstehen einer Hypothese, eines Konzepts oder einer Provokation, gestützt auf Notizen, Diagramme und situierte Untersuchung."
+    },
+    {
+      "step": 2,
+      "title": "Metaphorische & metonymische Prozesse",
+      "description": "Herausarbeitung der prägenden Metaphern, Metonymien und Ikonen, die das konzeptuelle Gerüst der Forschung strukturieren."
+    },
+    {
+      "step": 3,
+      "title": "Schlussfolgerungen",
+      "description": "Entwicklung textlicher Outputs, einschließlich Essays und literarischer Formen (wie Romane, Fabeln, Kurzgeschichten usw.), die Befunde und symbolische Verschiebungen synthetisieren."
+    },
+    {
+      "step": 4,
+      "title": "Vorläufiger künstlerischer Prozess",
+      "description": "Frühphase künstlerischen Erkundens; spekulative Formen und visuelle Logiken werden erprobt und Spannungen artikuliert."
+    },
+    {
+      "step": 5,
+      "title": "Vergleichende poetische Erprobung",
+      "description": "Phase der Wahrnehmungsanalyse und kognitiven Rezeption: Wie resoniert, affiziert oder desorientiert die Arbeit?"
+    },
+    {
+      "step": 6,
+      "title": "Finaler künstlerischer Prozess",
+      "description": "Kulmination der vorangegangenen Phasen zu einem voll realisierten Werk, in dem konzeptuelle Rahmen und visuelle Strategien kristallisieren."
+    },
+    {
+      "step": 7,
+      "title": "Zeitgenössische Souvenirs",
+      "description": "Übersetzung zentraler Metaphern und Ikonen in künstlerische Artefakte (Interventionen, Gemälde, Videos, Klänge, Installationen usw.)—Objekte der Interpretation und Träger residuellen Wissens jenseits des Textlichen."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "intro": "No Reference is an enmeshment of intertwined analogue and digital entities. Rooted in research and experimentation, it convenes a diverse constellation of actants to probe the capacities of art to summon possible presents.",
+  "paragraphs": [
+    "Throughout our research we approach the territory as a living archive by analysing its symbiosis with organic, inorganic and digital agents and their environments in historical, contemporary, and speculative contexts. We aim to investigate instances in which these symbiotic systems have been used and abused throughout history and discuss the ramifications of these in political imaginaries.",
+    "We develop long-term Regenerative Research Projects: adaptive inquiries that do not merely observe entanglement but seek to renew cultural, ecological, and technological terrains. Regenerative research here signals cyclical growth, ethical attunement, and distributed knowledge-making—fostering practices that are responsive, transformative, and attuned to the urgencies of the present."
+  ],
+  "methodologyTitle": "Each project unfurls through a seven-phase methodology:",
+  "methodology": [
+    { "step": 1, "title": "Research", "description": "Emergence of a hypothesis, concept, or provocation, informed by notes, diagrams, and situated inquiry." },
+    { "step": 2, "title": "Metaphoric & Metonymic Processes", "description": "Extraction of the key metaphors, metonymies, and icons shaping the conceptual scaffold of the research." },
+    { "step": 3, "title": "Conclusions", "description": "Development of textual outputs, including essays and literary forms (such as fiction novels, fables, short stories, and so on) that synthesize findings and symbolic displacements." },
+    { "step": 4, "title": "Preliminary Art Process", "description": "Early-stage artistic probing; where speculative forms and visual logics are trialed and tensions articulated." },
+    { "step": 5, "title": "Comparative Poetic Testing", "description": "A phase of perceptual analysis and cognitive reception: how does the work resonate, affect, or disorient?" },
+    { "step": 6, "title": "Final Art Process", "description": "Culmination of prior stages into a fully realized artwork, where conceptual frameworks and visual strategies crystallize." },
+    { "step": 7, "title": "Contemporary Souvenirs", "description": "Translation of core metaphors and icons into artistic artefacts (interventions, paintings, videos, sounds, installations, etc.)—objects of interpretation and carriers of residual knowledge beyond the textual." }
+  ]
+}

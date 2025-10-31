@@ -1,0 +1,17 @@
+{
+  "intro": "No Reference es un entrelazamiento de entidades analógicas y digitales. Arraigado en la investigación y la experimentación, convoca una constelación diversa de actantes para explorar la capacidad del arte de invocar presentes posibles.",
+  "paragraphs": [
+    "A lo largo de nuestra investigación abordamos el territorio como un archivo vivo, analizando su simbiosis con agentes orgánicos, inorgánicos y digitales y sus entornos en contextos históricos, contemporáneos y especulativos. Buscamos investigar casos en los que estos sistemas simbióticos han sido utilizados y abusados a lo largo de la historia y discutir sus ramificaciones en los imaginarios políticos.",
+    "Desarrollamos Proyectos de Investigación Regenerativa a largo plazo: indagaciones adaptativas que no solo observan el entrelazamiento sino que buscan renovar los terrenos culturales, ecológicos y tecnológicos. La investigación regenerativa aquí señala crecimiento cíclico, sintonía ética y producción de conocimiento distribuido—fomentando prácticas sensibles, transformadoras y atentas a las urgencias del presente."
+  ],
+  "methodologyTitle": "Cada proyecto se despliega en siete fases:",
+  "methodology": [
+    { "step": 1, "title": "Investigación", "description": "Emergencia de una hipótesis, concepto o provocación, informada por notas, diagramas e indagación situada." },
+    { "step": 2, "title": "Procesos Metafóricos y Metonímicos", "description": "Extracción de las metáforas, metonimias e íconos que estructuran el andamiaje conceptual de la investigación." },
+    { "step": 3, "title": "Conclusiones", "description": "Desarrollo de textos, incluidos ensayos y formas literarias (novelas de ficción, fábulas, cuentos, etc.) que sintetizan hallazgos y desplazamientos simbólicos." },
+    { "step": 4, "title": "Proceso Artístico Preliminar", "description": "Sondeo artístico temprano; donde se ensayan formas especulativas y lógicas visuales y se articulan tensiones." },
+    { "step": 5, "title": "Pruebas Poéticas Comparativas", "description": "Fase de análisis perceptual y recepción cognitiva: ¿cómo resuena, afecta o desorienta la obra?" },
+    { "step": 6, "title": "Proceso Artístico Final", "description": "Culminación de etapas previas en una obra plenamente realizada, donde se cristalizan marcos conceptuales y estrategias visuales." },
+    { "step": 7, "title": "Souvenirs Contemporáneos", "description": "Traducción de metáforas e iconos en artefactos artísticos (intervenciones, pinturas, videos, sonidos, instalaciones, etc.)—objetos de interpretación y portadores de conocimiento residual más allá del texto." }
+  ]
+}
