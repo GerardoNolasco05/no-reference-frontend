@@ -7,9 +7,13 @@
 }
 
 /* Base setup */
+html, body {
+  height: 100%;
+}
 body {
   margin: 0;
   padding: 0;
+  overflow: hidden; /* prevent full-page scroll */
 }
 
 .glitch {
@@ -56,4 +60,14 @@ body {
   70% { background-position: 0 -20px; }
   80% { background-position: -60px -20px; }
   100% { background-position: 0 0; filter: hue-rotate(360deg); }
+}
+
+/* Hide scrollbars but keep scrolling */
+.no-scrollbar {
+  -ms-overflow-style: none;   /* IE/Edge */
+  scrollbar-width: none;      /* Firefox */
+}
+.no-scrollbar::-webkit-scrollbar {
+  width: 0;
+  height: 0;                  /* Chrome/Safari */
 }
